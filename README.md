@@ -4,7 +4,7 @@
 
 Explore the Pharmacy Sales Analysis through our interactive online dashboard.
 
-"👉 OPEN INTERACTIVE DASHBOARD" (https://mahmoudshaban411-star.github.io/Pharmacy-Sales-Analysis/)
+"👉 OPEN INTERACTIVE DASHBOARD" ([https://mahmoudshaban411-star.github.io/Pharmacy-Sales-Analysis/](https://mahmoudshaaban411-star.github.io/Pharmacy-Sales-Analysis/))
 
 - Interactive filters and charts
 - Sales performance analysis
