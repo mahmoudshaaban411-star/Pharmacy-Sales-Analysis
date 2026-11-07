@@ -1,5 +1,15 @@
 # Pharmacy Sales Analysis Dashboard
 
+🚀 Live Interactive Dashboard
+
+Explore the Pharmacy Sales Analysis through our interactive online dashboard.
+
+"👉 OPEN INTERACTIVE DASHBOARD" (https://mahmoudshaban411-star.github.io/Pharmacy-Sales-Analysis/)
+
+- Interactive filters and charts
+- Sales performance analysis
+- Product and salesperson insights
+- Read-only dashboard experience
 An Excel-based sales analysis project focused on exploring pharmacy
 product sales, sales transactions, shipped boxes, and performance across
 salespeople and locations.
