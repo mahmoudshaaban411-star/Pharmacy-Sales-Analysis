@@ -63,12 +63,8 @@ adapted in the working copy):
 
 ## Dashboard Preview
 
-Add a screenshot of your completed Excel dashboard to the `images`
-folder and name it `dashboard-preview.png`.
+![Pharmacy Sales Dashboard](dashboard-preview.png)
 
-When the image is uploaded, this section will display it:
-
-`images/dashboard-preview.png`
 
 ## Project Structure
 
